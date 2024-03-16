@@ -1,0 +1,7 @@
+path: C:\Users\yztim\OneDrive\デスクトップ\kakinotane-yolov8\datasets # データセットのルートディレクトリ
+train: kakinotane/images/train # トレーニング画像（'path' からの相対パス）
+val: kakinotane/images/val # 検証画像（'path' からの相対パス）
+
+# Classes
+nc: 1 # クラスの数
+names: ["kaki"] # クラスの名前
