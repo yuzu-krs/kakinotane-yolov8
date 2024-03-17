@@ -3,5 +3,5 @@ train: kakinotane/images/train # トレーニング画像（'path' からの相�
 val: kakinotane/images/val # 検証画像（'path' からの相対パス）
 
 # Classes
-nc: 1 # クラスの数
-names: ["kaki"] # クラスの名前
+nc: 2 # クラスの数
+names: ["kaki", "tane"] # クラスの名前
